@@ -5,6 +5,7 @@ public class Animal {
 //STATIC
 //NON STATIC
 	public void salary () {
+
 		System.out.println("HELLO WORLD");
 	}
 	
